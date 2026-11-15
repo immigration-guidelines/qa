@@ -1,0 +1,25 @@
+Qatar - immigration/residency and labour authorities
+Checked 15 November 2026. No files kept: nothing found that is guidance addressed to decision-makers.
+
+Authorities
+- Ministry of Interior, General Directorate of Passports: entry, residence and exit under Law No. 21
+  of 2015 and its executive regulations (2019). https://portal.moi.gov.qa/ - robots.txt returns 404
+  (no rules). No published manual, circular or officer instruction was found; the portal offers
+  applicant service pages and e-services (Metrash).
+- Ministry of Labour (MoL): work permits, recruitment approvals, recruitment-office licences.
+  https://www.mol.gov.qa/ - robots.txt did not answer from this machine (connection timed out after
+  60 s); not used further.
+
+What exists
+- Laws, executive regulations and ministerial decisions (e.g. Ministerial Decision No. 32 of 2025 on
+  work-permit and recruitment fees; Ministerial Decision No. 8 of 2005 on licences to recruit for
+  others) are published in the Official Gazette and on the Al Meezan legal portal (https://www.almeezan.qa/).
+  They are legislation, not wanted.
+- MoL's "job title description and classification guide" for the private sector (updated December
+  2024, reported by QNA) is a reference list for employers, not a decision-makers' instruction.
+- Web searches (November 2026) for MOI or MoL circulars, manuals or officer instructions returned only
+  news reports, law-firm summaries and research-archive copies of legislation (gulfmigration.grc.net).
+
+Finding
+Qatar publishes no guidance addressed to the officials who decide residence or work-permit cases.
+What is public is legislation and ministerial decisions, plus applicant service information.
